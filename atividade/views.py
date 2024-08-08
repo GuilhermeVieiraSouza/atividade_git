@@ -6,3 +6,6 @@ def index(request):
 
 def guilherme(request):
     return render(request, "guilherme.html")
+
+def Kayky(request):
+    return render(request, "Kayky.html")
